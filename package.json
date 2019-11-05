@@ -1,7 +1,7 @@
 {
-  "name": "react-actioncable-provider",
-  "version": "2.0.0",
-  "description": "ActionCable Provider for React",
+  "name": "react-actioncable-provider-react17",
+  "version": "2.1.0",
+  "description": "ActionCable Provider for updated for React 17",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest --coverage",
@@ -16,6 +16,7 @@
     "react"
   ],
   "author": "Li Jie <cpunion@gmail.com>",
+  "contributors": ["R.M. de Vos <ramsy.de.vos@leftclick.eu>"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cpunion/react-actioncable-provider/issues"
