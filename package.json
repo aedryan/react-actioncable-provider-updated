@@ -1,6 +1,6 @@
 {
   "name": "react-actioncable-provider-react17",
-  "version": "2.1.0",
+  "version": "2.9.0",
   "description": "ActionCable Provider for updated for React 17",
   "main": "lib/index.js",
   "scripts": {
