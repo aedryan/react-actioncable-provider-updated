@@ -3,3 +3,4 @@
 .npmignore
 /config/
 yarn.lock
+.idea
