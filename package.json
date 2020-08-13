@@ -9,19 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cpunion/react-actioncable-provider.git"
+    "url": "git+https://github.com/aedryan/react-actioncable-provider-updated.git"
   },
   "keywords": [
     "ActionCable",
     "react"
   ],
   "author": "Li Jie <cpunion@gmail.com>",
-  "contributors": ["R.M. de Vos <ramsy.de.vos@leftclick.eu>"],
+  "contributors": [
+    "R.M. de Vos <ramsy.de.vos@leftclick.eu>",
+    "Andrew Cox <aedryan@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cpunion/react-actioncable-provider/issues"
+    "url": "https://github.com/aedryan/react-actioncable-provider-updated/issues"
   },
-  "homepage": "https://github.com/cpunion/react-actioncable-provider#readme",
+  "homepage": "https://github.com/aedryan/react-actioncable-provider-updated#readme",
   "dependencies": {
     "actioncable": "^5.0.0",
     "create-react-class": "^15.6.2",
